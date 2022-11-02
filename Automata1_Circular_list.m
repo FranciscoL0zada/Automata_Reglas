@@ -1,4 +1,4 @@
-
+%%comentario
 clc; clear; close all;
 %% prueba de Automata celular usando imagen lena
 [X,Map] = imread('LENA1.BMP');
