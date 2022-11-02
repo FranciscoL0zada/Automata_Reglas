@@ -8,6 +8,9 @@
 % Add logic for circular list
 
 
+%%comentario
+
+
 
 function wd = decoder_R85_Circular_list(we)
 
